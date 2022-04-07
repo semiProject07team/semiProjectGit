@@ -20,6 +20,13 @@ public class CartController {
 	 * return step; }
 	 */
 	
+	//상품 페이지로 가기 
+		@RequestMapping("addcart.do")
+		public String back() {
+			return "list";
+			
+		}	
+	
 	//장바구니에 담기
 	@RequestMapping("add.do")
 	public String add(CartVO vo) {
