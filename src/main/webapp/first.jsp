@@ -8,7 +8,7 @@
 <script type="text/javascript" src="/7team_project/resources/js/jquery-1.7.1.js"></script>
 
 <head>
-    <title>용기 쇼핑몰</title>
+    <title>용기 쇼핑몰</title> <!-- 수정 -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
