@@ -1,4 +1,0 @@
-# semiProjectGit
-semiProjectGit
-hi
-bye
