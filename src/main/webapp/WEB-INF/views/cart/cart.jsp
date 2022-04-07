@@ -240,7 +240,7 @@ https://templatemo.com/tm-559-zay-shop
 </table>
 <div class="bx_btn">
 <form action="addcart.do">
-<button type="submit" name="button" class="btn gray">쇼핑계속하기</button>
+<button type="submit" class="btn gray">쇼핑계속하기</button>
 </form>
 </div>
             </div>
