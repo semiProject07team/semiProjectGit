@@ -9,7 +9,7 @@
 <body>
 <a href="list.do">상품목록페이지</a>
 
-<br/><hr/> 
+<br/><hr/>  
 
 <a href="review.do">리뷰페이지</a>
 </body>
