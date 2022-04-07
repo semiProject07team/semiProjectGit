@@ -28,7 +28,7 @@
         <div class="container text-light">
             <div class="w-100 d-flex justify-content-between">
                   <!--   <i class="fa fa-envelope mx-2"></i> -->
-                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:info@company.com"><strong> ★Yong gi 매장 방문을 환영합니다!</strong></a>
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:info@company.com"><strong> ★Yong gi 매ㅇㅇㅇ장 방문을 환영합니다!</strong></a>
                     <!-- i class="fa fa-phone mx-2"></i> -->
                    <!--  <a class="navbar-sm-brand text-light text-decoration-none" href="tel:010-020-0340">010-020-0340</a> -->
                 </div>
