@@ -273,6 +273,8 @@ https://templatemo.com/tm-559-zay-shop
 						</li>
 						<li class="nav-item"><a class="nav-link" href="">용기내 매장</a></li>
 						<li class="nav-item"><a class="nav-link" href="">로그인</a></li>
+						<!-- 깃허브 연습 -->
+						연습입니다.
 					</ul>
 				</div>
 				<div class="navbar align-self-center d-flex">
