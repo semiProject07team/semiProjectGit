@@ -186,14 +186,14 @@ https://templatemo.com/tm-559-zay-shop
 						Yong Gi 만의 특별한 상품을 만나보세요.
                     </p>
                 </div>
-                <!-- 
+                <!--  
                 <div class="col-md-4">
                     <img src="/7team_project/resources/imgs/logo_transparent.png" alt="About Hero">
                 </div> -->
                 
             </div>
         </div>
-    </section>
+    </section>  
     
         <div class="row">
         	        	
