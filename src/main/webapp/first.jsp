@@ -193,7 +193,7 @@ https://templatemo.com/tm-559-zay-shop
                 
             </div>
         </div>
-    </section>
+    </section>  
     
         <div class="row">
         	        	
