@@ -252,7 +252,7 @@ https://templatemo.com/tm-559-zay-shop
 			class="container d-flex justify-content-between align-items-center">
 
 			<a class="navbar-brand text-success logo h1 align-self-center"
-				href="index.html"> YongGI </a>
+				href="index.html"> Yong Gi </a>
 
 			<button class="navbar-toggler border-0" type="button"
 				data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav"
@@ -271,9 +271,8 @@ https://templatemo.com/tm-559-zay-shop
 						</li>
 						<li class="nav-item"><a class="nav-link" href="review.do">후기</a>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="">용기내 매장</a></li>
-						<li class="nav-item"><a class="nav-link" href="">로그인</a></li>
-
+						<li class="nav-item"><a class="nav-link" href="">dd</a></li>
+						<li class="nav-item"><a class="nav-link" href="">dd</a></li>
 					</ul>
 				</div>
 				<div class="navbar align-self-center d-flex">
