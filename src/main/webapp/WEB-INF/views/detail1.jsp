@@ -204,7 +204,7 @@ https://templatemo.com/tm-559-zay-shop
 
 							<form action="add.do" method="post">
 							<!-- 장바구니로 넘어가야하는 값 hidden -->
-							<input name="memberId" value="5"> <!-- **********membetId 세션값 가져오는걸로 바꾸기 -->
+							<input name="memberId" value="${sessionScope.memberId}"> <!-- **********membetId 세션값 가져오는걸로 바꾸기 -->
 							<input name="goodsNo" value="1"> <!-- **********goodsNo 정보 넣었음 -->
 								<input type="hidden" name="product-title" value="Activewear">
 								<div class="row">
