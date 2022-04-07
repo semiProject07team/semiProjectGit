@@ -70,11 +70,7 @@ https://templatemo.com/tm-559-zay-shop
     </nav>
     <!-- Close Top Nav -->
 
-<<<<<<< Updated upstream
-
-=======
-<!-- 수정 테스트 0407 오후 05:53 -->
->>>>>>> Stashed changes
+<!-- 수정 테스트 0407 오후 05:49 -->
     <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
@@ -85,7 +81,7 @@ https://templatemo.com/tm-559-zay-shop
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>
+            </button> 
 
             <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
                 
