@@ -1,2 +1,0 @@
-# semiProjectGit
-semiProjectGit
